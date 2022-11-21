@@ -3,7 +3,7 @@
     $data = json_decode($json);
     
     // Configuración BASE DE DATOS MYSQL
-    $servidor  = "localhost";
+    $servidor  = "78.30.1.120";
     $basedatos = "gym";
     $usuario   = "root";
     $password  = "";
