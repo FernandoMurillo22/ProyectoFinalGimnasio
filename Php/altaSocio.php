@@ -3,7 +3,7 @@
     $data = json_decode($json);
     
     // Configuración BASE DE DATOS MYSQL
-    $servidor  = "78.30.1.120";
+    $servidor  = "proyecto-final-gym.netlify.app";
     $basedatos = "gym";
     $usuario   = "root";
     $password  = "";
